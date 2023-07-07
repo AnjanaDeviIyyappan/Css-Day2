@@ -1,0 +1,46 @@
+.hero{
+    width: 700px;
+    height: 300px;
+    border-radius: 20px;
+    margin: 50px auto;
+    position: relative;
+}
+.hero img{
+    width: 100%;
+    border-radius: 20px;
+}
+.hero-content{
+    top: 20%;
+    font-size: 30px;
+    width: 100%;
+    text-align: center ;
+    position: absolute;
+    bottom: 0;
+    color: white;
+font-family: Arial, Helvetica, sans-serif;
+}
+.btn-white{
+    background-color: rgb(255, 255, 255);
+    color: rgb(74, 66, 66);
+    font-size: 16px;
+    padding: 10px 150px;
+    border-radius: 10px;
+    border: none;
+    margin-top: 50px;
+}
+.logo{
+    font-size: 25px;
+    font-style: italic;
+}
+.dis{
+    font-size: 30px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 70px;
+    left: 60px;
+}
+.fa-sharp {
+    color: rgb(189, 62, 62);
+    
+}
